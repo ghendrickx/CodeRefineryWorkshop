@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-Used in teching Git.
+Used in teaching Git.
